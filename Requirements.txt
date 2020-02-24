@@ -1,0 +1,9 @@
+Python 3.8.1
+
+Python Packages :
+
+Tenserflow 
+Numpy 1.8
+Pandas 0.25.0
+Matplotlib 3.1.2
+Keras
